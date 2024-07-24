@@ -1,0 +1,16 @@
+**Road Accident Dashboard**
+
+Requirements:
+
+1. Primary KPI  - Total casualities taken place after the Accident.
+2. Primary KPI - Toatal casualities and percentage of totsl with respect to accicdent.
+ 		 severity and maximum casualities with type of vehicle.
+3. Secondary KPI - Total casualities with respect to vehicle type.
+4. Monthly trend showing comparison of casualities for current year and previous year.
+5. Maximum casualities by road type
+6. Distribution of total casualities by road surface.
+7. Relation between casualities by Area/ Location and Day/ Night.
+  
+
+Please find the pivort tables in Data Analysis Sheet.
+
